@@ -11,7 +11,7 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Abi%20Bhakti]&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">[igdabibhakti]</h1>
@@ -21,10 +21,10 @@
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+- **Pekerjaan Saat ini**: Mahasiswa BINUS
+- **Sedang mendalami**: Computer Science
+- **Target**: Punya sawah 10 hektar
+- **Fun fact**: crazy
 
 ---
 
